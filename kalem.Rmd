@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - My hobbies include:
   - triathlon
   - trail running
+  - climbing
 - I'm passionate about nutrition
 - I am originally from Canada 
 

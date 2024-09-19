@@ -1,0 +1,12 @@
+---
+title: "The best website"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Kalem and Eli, partners in crime
+
+![This is a cool picture that has nothing to do with us](https://cdn.mos.cms.futurecdn.net/xaycNDmeyxpHDrPqU6LmaD.jpg)

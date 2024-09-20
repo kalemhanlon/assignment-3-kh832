@@ -4,7 +4,7 @@ navbar:
  title: "my website"
  left:
   - text: "The best website"
-    href: _site/index.html
+    href: index.html
   - text: "Kalem"
     href: kalem.html
   - text: "Eli"

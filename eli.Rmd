@@ -1,0 +1,22 @@
+---
+title: "Eli"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome to Eli's page!
+
+
+Eli is an MPS student in Global Development with a focus on agricultural inputs in Central America and East Africa. His research areas of interest include:  
+
+* Soil amendments derived from the sanitation sector in Western Kenya (Led by R. Nelson & C. Midega)
+* Poultry feed value chain development in Kenya and Honduras, using *Hermetia illucens* as a protein source (Led by L. Leonard, C. Midega, J. Orozco)
+* Aquaculture feed development at Cornell (Led by E. Won)
+* Optimized water utilization from new wells in Central and South America  
+
+Learn more about Eli at his MPS profile: https://cals.cornell.edu/global-development/education-training/mps/mps-2024-25-cohort/eli-newell
+
+![Eli discusses poultry feed trial results at a field day with Poverty & Health Integrated Solutions in Kisumu, Kenya](https://pbs.twimg.com/media/GOHfzBrWsAAMlA6?format=jpg&name=4096x4096){width=50%}

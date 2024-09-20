@@ -1,9 +1,9 @@
 output.dir: "."
 navbar:
  left:
-  - text: "Home"
+  - text: "The best website"
     href: index.html
-  - text: "kalem"
+  - text: "Kalem"
     href: kalem.html
-  - text: "eli"
+  - text: "Eli"
     href: eli.html

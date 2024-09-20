@@ -1,5 +1,7 @@
+name: "my website"
 output.dir: "."
 navbar:
+ title: "my website"
  left:
   - text: "The best website"
     href: index.html
@@ -7,3 +9,9 @@ navbar:
     href: kalem.html
   - text: "Eli"
     href: eli.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
